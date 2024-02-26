@@ -1,25 +1,42 @@
 Neural Network with TensorFlow & Keras
+
+
 This project demonstrates how to build a simple feedforward neural network using TensorFlow and Keras for the Pima Indians Diabetes dataset.
 
 Overview
+
+
 The Pima Indians Diabetes dataset is a collection of medical records of Pima Indians and whether they had an onset of diabetes within five years. It's a widely-used dataset in the field of machine learning for binary classification problems. The dataset contains 768 instances and 9 attributes, including the target variable (whether the patient has diabetes or not).
 
 Getting Started
+
+
 To run this project, you need to have the following prerequisites installed on your machine:
 
 Python 3.x
+
 TensorFlow
+
 Keras
+
+
+
 You can install TensorFlow and Keras using pip:
 
 pip install tensorflow
 pip install keras
 
+
+
 How to Run
 
 ->Clone this repository.
+
 ->Navigate to the project directory.
+
 ->Run the script with the command:
+
+
 
 Model
 
